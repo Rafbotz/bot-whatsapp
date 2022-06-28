@@ -1,0 +1,15 @@
+{
+    "ownerNumber": ["085646606905@s.whatsapp.net","081946945315@s.whatsapp.net"],
+    "ownerName": "Asyraf 6Youu",
+    "instagram" : "https://instagram.com/asyrafsixyouu",
+    "botName": "Raf Botz",
+    "footer": "WhatsApp Bot",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    }
+}
